@@ -1,0 +1,1 @@
+This is the file crated in local repository to check the conflict1 scenario
